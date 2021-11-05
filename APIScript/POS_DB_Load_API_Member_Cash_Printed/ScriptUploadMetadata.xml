@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>POS_DB_Load_API_Member_Cash_Printed</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="POS_DB_Load_API_Member_Cash_Printed.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="POS_DB_Load_API_Member_Cash_Printed.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="WebSocketCB.c" Filter="2" />
+    <FileEntry Name="Param_Username.dat" Filter="2" />
+    <FileEntry Name="pMemberID.dat" Filter="2" />
+    <FileEntry Name="Environment.dat" Filter="2" />
+    <FileEntry Name="Param_ProductId.dat" Filter="2" />
+    <FileEntry Name="pProductDescription.dat" Filter="2" />
+    <FileEntry Name="Instructions" Filter="2" />
+    <FileEntry Name="pRetailStoreID.dat" Filter="2" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="Test_DB_Load_API_Member_Cash_Printed.prm.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
